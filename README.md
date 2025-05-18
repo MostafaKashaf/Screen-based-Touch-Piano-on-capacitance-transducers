@@ -1,1 +1,1 @@
-# Capacitive-Touch-Piano-with-Noise-Reduction
+# Screen-based-Touch-Piano-on-capacitance-transducers
